@@ -32,4 +32,6 @@ The analysis follows these steps:
 
 ## IV) ⚠️ State of Research ⚠️
 
-Actually this Project is far from complete and it will take a long time until it is casted into Latex and published. For my own inquiry and curiosity i am actually satisfied with my findings, but maybe at some point of time this project is going to see a renaissance. Thanks for your interest in reading this. Maybe you have some ideas or some revolutionary findings? Contact me at openscience@schurawel.io!
+This project is currently far from complete and mostly serves as a preliminary sketch. It will likely take a while before it gets formally polished in LaTeX and published. For now, my own curiosity is satisfied by these findings, but this inquiry might see a renaissance down the road.
+
+Thanks for stopping by and taking an interest in this code! If you have any ideas, questions, or perhaps some revolutionary findings of your own, let's connect: openscience@schurawel.io.
